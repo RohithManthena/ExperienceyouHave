@@ -10,7 +10,7 @@ namespace ExperienceyouHave
             int Exp = int.Parse(Console.ReadLine());
             for (int i = 0; i < Exp; i++)
             {
-                Console.WriteLine("You Have" +  i.ToString()  + "years of Experience");
+                Console.WriteLine("You Have "  + i.ToString() +  " years of Experience");
 
             }
         }
